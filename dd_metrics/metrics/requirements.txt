@@ -1,0 +1,7 @@
+torch>=0.4.0
+torchvision>=0.2.1
+numpy>=1.14.3
+scipy>=1.0.1
+matplotlib>=2.0.0
+scikit-image>=0.13.0
+opencv-python>=2.4.11

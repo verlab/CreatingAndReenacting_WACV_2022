@@ -1,0 +1,6 @@
+smplx==0.1.13
+scikit-image==0.18.3
+opencv-python==4.5.4.58
+iopath==0.1.9
+tensorboard==2.7.0
+chumpy==0.70

@@ -1,0 +1,15 @@
+Bootstrap: docker
+From: pytorch/pytorch:1.4-cuda10.1-cudnn7-devel
+
+%help
+    Deformation module recipe file to build singularity container.
+%files
+    requirements.txt /opt/requirements.txt
+    env.txt /opt/env.txt
+    data/ /code/data
+%environment
+    export CUDAFLAGS='-DNDEBUG=1'
+%post
+    echo "Installing Deformation"
+    apt update && apt install -y software-properties-common curl ffmpeg libsm6 libxext6
+    conda env create --name env --file /opt/env.txt

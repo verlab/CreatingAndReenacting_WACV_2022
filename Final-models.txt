@@ -1,0 +1,9 @@
+S0 (bruna): /srv/storage/datasets/thiagoluange/dd_dataset/checkpoints_tex-final/S1P0/_texNet-lr_0.002-lr_res_0.0002-lrdf_100.0-lrgb_100-warmup_2000-flip_0.0/batch_8/epochs_40/6-3-2021_18:7:45/
+	
+S2 (thiago): /srv/storage/datasets/thiagoluange/dd_dataset/checkpoints_tex-final/S2P0/_texNet-lr_0.002-lr_res_0.0002-lrdf_100.0-lrgb_100-warmup_2000-flip_0.0/batch_8/epochs_40/6-3-2021_14:1:13/
+	
+S4 (Erickson): /srv/storage/datasets/thiagoluange/dd_dataset/checkpoints_tex-final/S3P0/_texNet-lr_0.002-lr_res_0.0002-lrdf_100.0-lrgb_100-warmup_2000-flip_0.0/batch_8/epochs_40/4-3-2021_12:56:45/
+	
+S5 (Ronaldo): /srv/storage/datasets/thiagoluange/dd_dataset/checkpoints_tex-final/S3P1/_texNet-lr_0.002-lr_res_0.0002-lrdf_100.0-lrgb_100-warmup_2000-flip_0.0/batch_8/epochs_40/6-3-2021_0:30:30/
+	
+S6 (Balbino): /srv/storage/datasets/thiagoluange/dd_dataset/checkpoints_tex-final/S4P0/_texNet-lr_0.002-lr_res_0.0002-lrdf_100.0-lrgb_100-warmup_2000-flip_0.0/batch_8/epochs_40/5-3-2021_11:12:25/

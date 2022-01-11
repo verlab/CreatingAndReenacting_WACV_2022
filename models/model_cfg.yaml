@@ -1,0 +1,5 @@
+input_channels : 3
+num_stages : 3
+graph_conv_dim : 128
+num_graph_convs : 6
+graph_conv_init : "normal"
